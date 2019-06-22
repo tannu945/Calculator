@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9e0b29bfe99040cb123697ba06cba591\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\49e7f494f6df0a115844cdc201c9b604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f962cc5edca31f4b221a82d77eb4fa2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3c365d10e86334442df1a279a6f13181\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ab92c63ca7b0eea69aefeaf7ea824fba\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:design:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9e0b29bfe99040cb123697ba06cba591\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9e0b29bfe99040cb123697ba06cba591\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f962cc5edca31f4b221a82d77eb4fa2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f962cc5edca31f4b221a82d77eb4fa2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3c365d10e86334442df1a279a6f13181\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3c365d10e86334442df1a279a6f13181\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ab92c63ca7b0eea69aefeaf7ea824fba\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ab92c63ca7b0eea69aefeaf7ea824fba\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.shapes.ui.MainActivity
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:11:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9e0b29bfe99040cb123697ba06cba591\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9e0b29bfe99040cb123697ba06cba591\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\49e7f494f6df0a115844cdc201c9b604\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\49e7f494f6df0a115844cdc201c9b604\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f962cc5edca31f4b221a82d77eb4fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f962cc5edca31f4b221a82d77eb4fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3c365d10e86334442df1a279a6f13181\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3c365d10e86334442df1a279a6f13181\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ab92c63ca7b0eea69aefeaf7ea824fba\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ab92c63ca7b0eea69aefeaf7ea824fba\AndroidManifest.xml:20:5-43
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4cf9a63adc16ac9e08f495e0e13017d6\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cousera programming assignment\ass 1\app\src\main\AndroidManifest.xml

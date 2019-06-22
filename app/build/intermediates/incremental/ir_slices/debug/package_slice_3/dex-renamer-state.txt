@@ -1,0 +1,4 @@
+#Sat Jun 22 16:19:00 IST 2019
+base.0=D\:\\cousera programming assignment\\ass 1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
